@@ -8,6 +8,8 @@ Current toolchains:
 
 [2] **arm-eabi-linaro-4.7.3**: GCC Linaro 4.7.3 toolchain
 
+[3] **arm-eabi-linaro-4.9.3**: GCC Linaro 4.9.3 toolchain
+
 -----------------------------------------
 
 **Use this command inside this folder and select toolchain**
