@@ -10,7 +10,7 @@ echo "-APTESS - Toolchain Choice-"
 echo
 echo "1) GCC 4.6.2 toolchain from Linaro"
 echo "2) GCC 4.7.3 toolchain from Linaro"
-echo "2) GCC 4.9.3 toolchain from Linaro"
+echo "3) GCC 4.9.3 toolchain from Linaro"
 echo
 echo "*) Any other key to Exit"
 echo
